@@ -18,6 +18,7 @@ Some _status_ and _places_ icons were copied from:
 * [Faba Icon Theme](http://mokaproject.com/faba-icon-theme/)
 
 Icons on unity menu bar:
+
 ![Files](./screenshots/unity-menu-bar.png?raw=true)
 
 
